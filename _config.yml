@@ -1,1 +1,8 @@
+theme: minima
+title: My Personal Site
+author: Your Name
 
+header_pages:
+  - about.md
+  - projects.md
+  - contact.md
